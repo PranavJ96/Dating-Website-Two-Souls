@@ -1,2 +1,2 @@
 # Two-Souls
-Dating Application using MERN, Docker and CI/CD implementation.
+Dating Application using MERN, Docker and CI/CD implementation
